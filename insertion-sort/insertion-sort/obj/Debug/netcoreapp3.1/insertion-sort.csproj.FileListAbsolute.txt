@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\bin\Debug\netcoreapp3.1\insertion-sort.exe
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\bin\Debug\netcoreapp3.1\insertion-sort.deps.json
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\bin\Debug\netcoreapp3.1\insertion-sort.runtimeconfig.json
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\bin\Debug\netcoreapp3.1\insertion-sort.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\bin\Debug\netcoreapp3.1\insertion-sort.dll
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\bin\Debug\netcoreapp3.1\insertion-sort.pdb
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\obj\Debug\netcoreapp3.1\insertion-sort.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\obj\Debug\netcoreapp3.1\insertion-sort.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\obj\Debug\netcoreapp3.1\insertion-sort.AssemblyInfo.cs
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\obj\Debug\netcoreapp3.1\insertion-sort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\obj\Debug\netcoreapp3.1\insertion-sort.dll
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\obj\Debug\netcoreapp3.1\insertion-sort.pdb
+C:\Users\Admin\source\repos\insertion-sort\insertion-sort\obj\Debug\netcoreapp3.1\insertion-sort.genruntimeconfig.cache
